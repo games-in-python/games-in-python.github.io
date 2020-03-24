@@ -75,6 +75,11 @@ PPB is an education-targetted sprite-based engine, focusing on ease of use, rapi
 
 Arcade is an easy-to-learn Python library for creating 2D video games. It is ideal for beginning programmers, or programmers who want to create 2D games without learning a complex framework.
 
+### Cocos2d
+[Website](http://python.cocos2d.org/) — [PyPI](https://pypi.org/project/cocos2d/) — [Docs](https://github.com/los-cocos/cocos) — [Source](http://python.cocos2d.org/doc.html)
+
+PyGame Zero handles the boilerplate of PyGame, making it easy for students to get started.
+
 ### PyGame Zero
 [Docs](https://pygame-zero.readthedocs.io/) — [PyPI](https://pypi.org/project/pgzero/) — [Source](https://bitbucket.org/lordmauve/pgzero)
 
