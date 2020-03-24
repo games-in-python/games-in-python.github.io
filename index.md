@@ -59,6 +59,11 @@ Ursina is a 3D game engine boasting fast development, easy of use, and flexible 
 
 Panda3D is a 3D game engine advertising power and flexibility.
 
+### Gloopy
+[Source](https://github.com/tartley/gloopy)
+
+TODO
+
 2D Frameworks
 -------------
 
@@ -78,7 +83,7 @@ Arcade is an easy-to-learn Python library for creating 2D video games. It is ide
 ### Cocos2d
 [Website](http://python.cocos2d.org/) — [PyPI](https://pypi.org/project/cocos2d/) — [Docs](https://github.com/los-cocos/cocos) — [Source](http://python.cocos2d.org/doc.html)
 
-PyGame Zero handles the boilerplate of PyGame, making it easy for students to get started.
+TODO
 
 ### PyGame Zero
 [Docs](https://pygame-zero.readthedocs.io/) — [PyPI](https://pypi.org/project/pgzero/) — [Source](https://bitbucket.org/lordmauve/pgzero)
