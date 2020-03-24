@@ -42,6 +42,12 @@ Pyglet is a pure-Python, cross-platform hardware layer, supporting 2D, OpenGL, s
 
 PySDL2 is a direct ctypes-binding to SDL2—you're calling the C functions directly, with all of the rough edges and caveats.
 
+### PyOpenGL
+
+[Website](http://pyopengl.sourceforge.net/) — [PyPI](https://pypi.org/project/PyOpenGL/) — [Source](https://github.com/mcfletch/pyopengl) — [Docs](http://pyopengl.sourceforge.net/documentation/index.html)
+
+TODO (They're opengl bindings, that's it)
+
 3D Frameworks
 -------------
 
