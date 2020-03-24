@@ -55,7 +55,7 @@ These are the 3D engines.
 Ursina is a 3D game engine boasting fast development, easy of use, and flexible support.
 
 ### Panda3D
-[Website](https://www.panda3d.org/) — [Source](https://github.com/panda3d/panda3d) — [Docs](https://www.panda3d.org/manual/) — [Discod](https://discord.gg/UyepRMm) — [Forums](https://discourse.panda3d.org/)
+[Website](https://www.panda3d.org/) — [Source](https://github.com/panda3d/panda3d) — [Docs](https://www.panda3d.org/manual/) — [Discord](https://discord.gg/UyepRMm) — [Forums](https://discourse.panda3d.org/)
 
 Panda3D is a 3D game engine advertising power and flexibility.
 
@@ -66,17 +66,23 @@ Like their 3D counterparts, these game engines are ready to go, just rather flat
 
 ### PursuedPyBear
 
-TODO
+[Website](https://ppb.dev/) — [PyPI](https://pypi.org/project/ppb/) — [Source](https://github.com/ppb/pursuedpybear) — [Docs](https://ppb.readthedocs.io/en/stable/) — [Discord](https://discord.gg/s7qx493) — [Twitter](https://twitter.com/pursuedpybear)
+
+PPB is an education-targetted sprite-based engine, focusing on ease of use, rapid start, and extensibility.
 
 ### Arcade
+[Website](https://arcade.academy/) — [PyPI](https://pypi.org/project/arcade/) — [Source](https://github.com/pvcraven/arcade) — [Discord](https://discord.gg/ZjGDqMp) — [Twitter](https://twitter.com/ArcadeLibrary)
 
-TODO
+Arcade is an easy-to-learn Python library for creating 2D video games. It is ideal for beginning programmers, or programmers who want to create 2D games without learning a complex framework.
 
 ### PyGame Zero
+[Docs](https://pygame-zero.readthedocs.io/) — [PyPI](https://pypi.org/project/pgzero/) — [Source](https://bitbucket.org/lordmauve/pgzero)
 
-TODO
+PyGame Zero handles the boilerplate of PyGame, making it easy for students to get started.
 
 ### pyglet sprites
+
+Pyglet was already discussed, but it is worth mentioning that if you use the [`pyglet.sprite` module](https://pyglet.readthedocs.io/en/latest/modules/sprite.html), pyglet is at about the same level as the other 2D frameworks.
 
 Specialized Engines
 -------------------
@@ -84,5 +90,6 @@ Specialized Engines
 Unlike everything else on this site, these engines are a lot more opinionated about the kinds of games you can make with them.
 
 ### Ren'Py
+[Website](https://www.renpy.org/) — [Source](http://www.github.com/renpy/renpy) — [Docs](https://www.renpy.org/doc/html/) — [Discord](https://discord.gg/6ckxWYm)
 
-TODO
+Ren'Py is a Visual Novel engine, made specifically for that genre. It leans very heavily on its DSL to define stories.
