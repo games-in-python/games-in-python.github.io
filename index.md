@@ -65,6 +65,11 @@ Ursina is a 3D game engine boasting fast development, easy of use, and flexible 
 
 Panda3D is a 3D game engine advertising power and flexibility.
 
+### Harfang
+[Website](https://www.harfang3d.com/) — [GitHub Org](https://github.com/harfang3d)
+
+Proprietary multimedia framework big on VR support.
+
 ### Gloopy
 [Source](https://github.com/tartley/gloopy)
 
