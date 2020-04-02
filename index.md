@@ -48,6 +48,11 @@ PySDL2 is a direct ctypes-binding to SDL2—you're calling the C functions direc
 
 TODO (They're opengl bindings, that's it)
 
+### Harfang
+[Website](https://www.harfang3d.com/) — [GitHub Org](https://github.com/harfang3d)
+
+TODO (Proprietary multimedia framework big on VR support.)
+
 3D Frameworks
 -------------
 
@@ -64,11 +69,6 @@ Ursina is a 3D game engine boasting fast development, easy of use, and flexible 
 [Website](https://www.panda3d.org/) — [Source](https://github.com/panda3d/panda3d) — [Docs](https://www.panda3d.org/manual/) — [Discord](https://discord.gg/UyepRMm) — [Forums](https://discourse.panda3d.org/)
 
 Panda3D is a 3D game engine advertising power and flexibility.
-
-### Harfang
-[Website](https://www.harfang3d.com/) — [GitHub Org](https://github.com/harfang3d)
-
-Proprietary multimedia framework big on VR support.
 
 ### Gloopy
 [Source](https://github.com/tartley/gloopy)
