@@ -106,10 +106,6 @@ PyGame Zero handles the boilerplate of PyGame, making it easy for students to ge
 
 TODO (Kivy is as much a GUI library as it is a game one, but they feature several games, heavy mobile focus)
 
-### pyglet sprites
-
-Pyglet was already discussed, but it is worth mentioning that if you use the [`pyglet.sprite` module](https://pyglet.readthedocs.io/en/latest/modules/sprite.html), pyglet is at about the same level as the other 2D frameworks.
-
 Specialized Engines
 -------------------
 
