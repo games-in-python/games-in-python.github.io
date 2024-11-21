@@ -22,10 +22,9 @@ Hardware Layers
 
 These libraries are less "make a game now" and more "the abstraction you need to make a game engine". These can still be useful, but be prepared to put in a bit more work inventing your universe.
 
-### PyGame
+### PyGame CE
 
-[Website](https://www.pygame.org/) — [PyPI](https://pypi.org/project/pygame/) — [Source](https://github.com/pygame/pygame/) — [Twitter](https://twitter.com/pygame_org)
-
+[Website](https://www.pyga.me/) — [PyPI](https://pypi.org/project/pygame-ce/) — [Source]([https://github.com/pygame/pygame/](https://github.com/pygame-community/pygame-ce)
 The venerable, the classic: PyGame. For many people, when they think about making games in Python, they think PyGame. It literally wrote the book on game development in Python (several books, actually).
 
 PyGame is a wrapper around SDL that takes off a few of the rough edges while still keeping fairly thin. It supports 2D and OpenGL, sound, handles input, and most other platform tasks.
